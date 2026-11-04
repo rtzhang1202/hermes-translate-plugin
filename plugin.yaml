@@ -1,0 +1,3 @@
+name: hermes-translate
+version: "0.1.0"
+description: "Hermes Desktop 界面翻译后端 — 用 Hermes 自身的 LLM 把技能/工具/设置等英文 UI 文本批量翻译成简体中文，供 hermes-translate 桌面插件使用。"
